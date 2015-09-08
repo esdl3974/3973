@@ -4,4 +4,6 @@
 {
  printf("hello world");
 printf("hi...");
+
 }
+return 0;
